@@ -1,0 +1,10 @@
+{
+	"name": "you.replaycam",
+	"displayName": "Replay Cam",
+	"version": "1.0.0",
+	"description": "Free-fly spectator camera that records, and that plays several replays at once in the same world as ordinary characters, driven from one master clock.",
+	"main": "main.luau",
+	"keywords": ["replay", "overlay", "freecam", "spectate", "recording"],
+	"author": "you",
+	"defaultKeybind": ""
+}
